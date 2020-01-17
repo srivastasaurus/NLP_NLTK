@@ -14,3 +14,5 @@ In our path to learning how to do sentiment analysis with NLTK, we're going to l
     Training classifiers with datasets
     Performing live, streaming, sentiment analysis with Twitter.
     ...and much more.
+
+References: https://pythonprogramming.net
