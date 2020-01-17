@@ -5,7 +5,7 @@ NLTK will aids with everything from splitting sentences from paragraphs, splitti
 recognizing the part of speech of those words, highlighting the main subjects, 
 and then even with helping your machine to understand what the text is all about. 
 
-In our path to learning how to do sentiment analysis with NLTK, we're going to learn the following:
+In the path of performing sentiment analysis with NLTK, we're going to learn the following:
 
     Tokenizing - Splitting sentences and words from the body of text.
     Part of Speech tagging
